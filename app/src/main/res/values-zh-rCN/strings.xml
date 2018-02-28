@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="connect">点击连接</string>
+    <string name="connected">连接成功 点击断开</string>
+    <string name="error1">连接错误</string>
+    <string name="connecting">正在连接&#8230;</string>
+    <string name="initing">正在初始化&#8230;</string>
+
+    <string name="state_connecting">正在连接&#8230;</string>
+    <string name="state_wait">等待服务器响应</string>
+    <string name="state_auth">正在认证</string>
+    <string name="state_get_config">正在获取客户端配置</string>
+    <string name="state_assign_ip">正在分配IP地址</string>
+
+    <string name="notifcation_title_notconnect">未连接</string>
+    <string name="help">关于</string>
+
+    <string name="init_fail">初始化失败: </string>
+    <string name="down_fail">数据加载失败: </string>
+    <string name="not_show_more">不再显示</string>
+</resources>
